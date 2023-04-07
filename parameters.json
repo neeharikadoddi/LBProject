@@ -3,40 +3,40 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "loadBalancers_LB1_name": {
-            "value": null
+            "value": "LB1"
         },
         "virtualMachines_LBVM1_name": {
-            "value": null
+            "value": "LBVM1"
         },
         "virtualMachines_LBVM2_name": {
-            "value": null
+            "value": "LBVM2"
         },
         "availabilitySets_test1_name": {
-            "value": null
+            "value": "test1"
         },
         "publicIPAddresses_LbIP_name": {
-            "value": null
+            "value": "LbIP"
         },
         "networkInterfaces_lbvm1482_name": {
-            "value": null
+            "value": "lbvm1482"
         },
         "networkInterfaces_lbvm2824_name": {
-            "value": null
+            "value": "lbvm2824"
         },
         "publicIPAddresses_LBVM1_ip_name": {
-            "value": null
+            "value": "LBVM1_ip"
         },
         "publicIPAddresses_LBVM2_ip_name": {
-            "value": null
+            "value": "LBVM2_ip"
         },
         "virtualNetworks_LBVM1_vnet_name": {
-            "value": null
+            "value": "LBVM1_vnet"
         },
         "networkSecurityGroups_LBVM1_nsg_name": {
-            "value": null
+            "value": "LBVM1_nsg"
         },
         "networkSecurityGroups_LBVM2_nsg_name": {
-            "value": null
+            "value": "LBVM2_nsg"
         }
     }
 }
