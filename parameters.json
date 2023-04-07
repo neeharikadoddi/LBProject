@@ -24,19 +24,19 @@
             "value": "lbvm2824"
         },
         "publicIPAddresses_LBVM1_ip_name": {
-            "value": "LBVM1_ip"
+            "value": "LBVM1-ip"
         },
         "publicIPAddresses_LBVM2_ip_name": {
-            "value": "LBVM2_ip"
+            "value": "LBVM2-ip"
         },
         "virtualNetworks_LBVM1_vnet_name": {
-            "value": "LBVM1_vnet"
+            "value": "LBVM1-vnet"
         },
         "networkSecurityGroups_LBVM1_nsg_name": {
-            "value": "LBVM1_nsg"
+            "value": "LBVM1-nsg"
         },
         "networkSecurityGroups_LBVM2_nsg_name": {
-            "value": "LBVM2_nsg"
+            "value": "LBVM2-nsg"
         }
     }
 }
