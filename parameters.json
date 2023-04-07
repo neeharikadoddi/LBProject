@@ -11,6 +11,12 @@
         "virtualMachines_LBVM2_name": {
             "value": "LBVM2"
         },
+        "adminUsername": {
+      "value": "Azure"
+    },
+    "adminPassword": {
+      "value": "Windows1234!"
+    }
         "availabilitySets_test1_name": {
             "value": "test1"
         },
